@@ -1,0 +1,30 @@
+<!doctype HTML>
+<body>
+    <script src="data.js" type="text/javascript"></script>
+    <script>
+      elmos = [{ 
+      color: 'red',
+      annoying: true,
+      height: 'unknown',
+      meta: { one: '1', two: '2'}
+    },{ 
+      color: 'blue',
+      annoying: true,
+      height: 'known',
+      meta: { one: '1', two: '2'}
+    },{ 
+      color: 'yellow',
+      annoying: false,
+      height: 'unknown',
+      meta: { one: '1', two: '2'}
+    }
+];
+var subsets = [];
+for (var v=0; v<elmos.length; v++) {
+    
+    subsets.push({color: elmos[v].color, annoying: elmos[v].annoying});
+}
+console.log(subsets);
+    </script>
+    
+</body>
