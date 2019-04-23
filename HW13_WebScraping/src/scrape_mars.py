@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup as bs
+	from bs4 import BeautifulSoup as bs
 from selenium import webdriver
 import pandas as pd
 import requests
