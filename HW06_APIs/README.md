@@ -1,3 +1,5 @@
+Link for the deployed project: https://knishina.github.io/Latitude_Analysis/
+
 ## Unit 6 | Assignment - What's the Weather Like?
 
 ## Background
