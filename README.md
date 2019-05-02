@@ -5,22 +5,22 @@ This folder has a total of fourteen sub-folders.  Each sub-folder represents a m
 <br />
 
 ### Directory.
-- [HW01 Excel](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW01_Excel)
-- [HW02 VBA](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW02_VBA)
-- [HW03 Python](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW03_Python)
-- [HW04 Pandas](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW04_Pandas)
-- [HW05 Matplotlib](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW05_Matplotlib)
-- [HW06 APIs](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW06_APIs)     
-- [HW07 Social Analytics](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW07_SocialAnalytics%20)
-- [HW08 Project 1]()
-- [HW09 mySQL](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW09_SQL)
-- [HW11 AdvSQL](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW11_AdvSQL)
-- [HW12 HTML](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW12_HTML)
-- [HW13 WebScraping](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW13_WebScraping)
-- [HW14 JavaScript](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW14_JavaScript)
-- [HW15 Interactive](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW15_Interactive)
-- [HW16 D3](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW16_D3)
-- [HW17 Leaflet](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW17_Leaflet)
+- [01 Excel](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW01_Excel)
+- [02 VBA](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW02_VBA)
+- [03 Python](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW03_Python)
+- [04 Pandas](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW04_Pandas)
+- [05 Matplotlib](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW05_Matplotlib)
+- [06 APIs](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW06_APIs)     
+- [07 Social Analytics](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW07_SocialAnalytics%20)
+- [08 Project 1]()
+- [09 mySQL](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW09_SQL)
+- [11 AdvSQL](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW11_AdvSQL)
+- [12 HTML](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW12_HTML)
+- [13 WebScraping](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW13_WebScraping)
+- [14 JavaScript](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW14_JavaScript)
+- [15 Interactive](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW15_Interactive)
+- [16 D3](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW16_D3)
+- [17 Leaflet](https://github.com/knishina/uc_berkeley_bootcamp/tree/master/HW17_Leaflet)
 
 <br />
 
