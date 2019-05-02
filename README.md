@@ -1,6 +1,6 @@
 
-# UC Berkeley BootCamp
-The `uc_berkeley_bootcamp` folder has a total of fourteen sub-folders.  Each sub-folder represents a mini-project that incorporates the indicated disciplines.  There is a README file per sub-folder that describes the mini-project requirements in more detail.  Below is a directory of the mini-projects.
+# UCB_MiniProjects
+This folder has a total of fourteen sub-folders.  Each sub-folder represents a mini-project that incorporates the indicated disciplines.  There is a README file per sub-folder that describes the mini-project requirements in more detail.  Below is a directory.
 
 <br />
 
