@@ -12,7 +12,6 @@ This folder has a total of fourteen sub-folders.  Each sub-folder represents a m
 - [05 Matplotlib](https://github.com/knishina/UCB_MiniProjects/tree/master/05_Matplotlib)
 - [06 APIs](https://github.com/knishina/UCB_MiniProjects/tree/master/06_APIs)     
 - [07 Social Analytics](https://github.com/knishina/UCB_MiniProjects/tree/master/07_SocialAnalytics%20)
-- [08 Project 1]()
 - [09 mySQL](https://github.com/knishina/UCB_MiniProjects/tree/master/09_SQL)
 - [11 AdvSQL](https://github.com/knishina/UCB_MiniProjects/tree/master/11_AdvSQL)
 - [12 HTML](https://github.com/knishina/UCB_MiniProjects/tree/master/12_HTML)
